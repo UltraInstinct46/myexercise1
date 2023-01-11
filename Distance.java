@@ -6,7 +6,7 @@ public class Distance{
     public static void main(String[] args){
         int u,a,t,Distance;
         System.out.println("Enter the value of Initial Velocity:");
-        Scanner sc1 = new Scanner(System.int);
+        Scanner sc1 = new Scanner(System.in);
         u=sc1.nextInt();
         System.out.println("Enter the value of acceleration:");
         Scanner sc2 = new Scanner(System.in);
